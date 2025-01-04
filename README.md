@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 <title>output-html.html</title>
@@ -109,7 +108,6 @@ OeuAABAsMICAICEBQAACQsAgIQFAAAJCwAAEhYAgB+yJsboCgAABCssAABIWAAAkLAAAEhYAACQsAAAI
 </div>
 </body>
 </html>
-<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 <title>output-html.html</title>
@@ -247,7 +245,6 @@ OeuAABAsMICAICEBQAACQsAgIQFAAAJCwAAEhYAgB+yJsboCgAABCssAABIWAAAkLAAAEhYAACQsAAAI
 </div>
 </body>
 </html>
-<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 <title>output-html.html</title>
@@ -307,7 +304,6 @@ TMPo8nsEdLR6LlZZX/N0P/rnxzKlrrp3W2tzc2d42buKkQZzeg48uHl5VvX7NO/Nuu2PytdM+2b6N5sw
 </div>
 </body>
 </html>
-<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 <title>output-html.html</title>
@@ -429,7 +425,6 @@ vbbnAYZKAAAIABJREFUb//EJz7xlre85eabb37Ws57127/92x/84Afvuuuum2666V3vetcDDzzw8pe/P
 </div>
 </body>
 </html>
-<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 <title>output-html.html</title>
